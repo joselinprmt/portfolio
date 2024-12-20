@@ -29,7 +29,7 @@ const HeroSection = () => {
           </p>
           <div className="flex items-center justify-center md:justify-start space-x-4">
             <a href="/Joselin Permata Aprillia_CV.pdf" target="_blank">
-              <button className="px-6 py-3 mb-4 rounded-full bg-gradient-to-tr from-orange-300 to-fuchsia-700 text-neutral-900 font-semibold">
+              <button className="px-6 py-3 mb-4 rounded-full bg-gradient-to-tr from-orange-300 to-fuchsia-700 text-neutral-900 font-semibold hover:text-white">
                 Download CV
               </button>
             </a>
